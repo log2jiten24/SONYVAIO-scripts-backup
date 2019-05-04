@@ -1,0 +1,35 @@
+package javaprogramming;
+
+import java.util.Scanner;
+
+public class Scannerclassaverageofnumbers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//to calculate average of numbers upon entering numbers through keyboard
+	Scanner scan = new Scanner (System.in) ;
+	int count = 0 ;
+	double sum = 0 ;
+	System.out.println("Enter the numbers :");
+	
+	while (scan.hasNext()) //it scans the end of file until it returns true 
+	{
+	if (scan.hasNextDouble())	{
+	//it will take double number as input 	
+	double num = scan.nextDouble() ;
+	//adding the numbers 
+	sum = sum + num ;
+	count ++ ;//count the number of occurences 
+	} else {
+	String str = scan.next() ;
+	if (str.equalsIgnoreCase("done")){
+		break ;
+	 }else {
+	System.out.println("Data format error ");	
+	return ;
+	  }
+	     }
+	}//while loop closure 
+	System.out.println("average sum of numbers :" + sum/count );	
+	}
+}

@@ -1,0 +1,35 @@
+package openloginpage;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+
+public class Loginclass {
+
+	WebDriver driver;	
+    By username=By.id("txtUsername");
+	By userpass=By.id("txtPassword");
+	By loginButton=By.name("Submit");
+	public static  WebDriver WebDriver;
+
+	// Create Constructor to initialize driver
+	public Loginclass (WebDriver driver) {
+	this.driver =WebDriver;
+		}
+	// method for typing username and passing parameter as Username.
+    public  void typeusername (String Uid) {
+	driver.findElement(username).sendKeys(Uid);
+           }
+    //method for typing password and passing parameter as Password.
+    public  void typepassword(String Password) {
+	driver.findElement(userpass).sendKeys(Password);
+                 }
+    //method for clicking on submit
+    public void clickonsubmit() {
+	driver.findElement(loginButton).click();
+            }
+                    
+    public  void closebrowser()
+    {
+    	driver.close();
+    }
+        }

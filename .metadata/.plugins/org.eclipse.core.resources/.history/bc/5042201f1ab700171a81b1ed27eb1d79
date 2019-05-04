@@ -1,0 +1,59 @@
+/**
+ * 
+ */
+package com.orangehrm_testcase;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.Test;
+
+import PageObjectModel.Loginpage;
+import Functionlibrary.*;
+
+/**
+ * @author Jiten
+ * test case page where we will be calling methods and it acts as a test case java class 
+ *
+ */
+
+@Test
+public class Verifyloginpagetestcase {
+	
+public String base_url = "http://opensource.demo.orangehrmlive.com/";
+public static  WebDriver driver;
+	
+public void verifylogin() throws Exception {
+	
+// to set the gecko driver path to run the Mozilla firefox 	
+System.setProperty("webdriver.gecko.driver", "C:\\geckodriver.exe");
+WebDriver driver = new FirefoxDriver();
+driver.manage().window().maximize();
+driver.get(base_url);
+	
+//create object of Loginpage class to access the methods.
+Loginpage login = new Loginpage(driver); 
+
+// to pass the username and password and click on logib button
+login.loginHRMpage("Admin", "admin");
+
+// to take screenshot of the home page after login calling as ClassName.methodname
+ExcelFunctionlib.takeScreenshot(driver, "d://OHRM.jpg");
+
+//to click on logout button for orangehrm 
+login.logoutHRM();
+//login.closebrowser();
+}
+
+
+ 
+@AfterTest
+public void verifyclosebrowser()
+{
+//close the browser	
+	Loginpage login = new Loginpage(driver);
+	login.closebrowser();
+         }
+      }
+
+

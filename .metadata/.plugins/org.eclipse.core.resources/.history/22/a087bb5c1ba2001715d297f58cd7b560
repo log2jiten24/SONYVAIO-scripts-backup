@@ -1,0 +1,24 @@
+package openhrmtestcases;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+import openloginpage.*;
+@Test
+public class LoginPage2 {
+  
+	private String Admin;
+	private String admin;
+
+	public void verifyloginOrangePage() {
+		System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
+		  WebDriver driver = new FirefoxDriver();
+		  driver.manage().window().maximize();
+		  driver.get("http://opensource.demo.orangehrmlive.com/index.php/auth/login");
+		  driver.manage().window().maximize();
+		  //Create on object for the LoginPage2 Class
+		  Loginclass2 log = new Loginclass2(driver);
+		  log.login_HRM(Admin, admin);
+		  
+  }
+}

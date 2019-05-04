@@ -1,0 +1,61 @@
+/**
+ * 
+ */
+package PageObjectModel;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.CacheLookup;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+
+/**
+ * @author Jiten
+ *
+ */
+public class PageModelDemo {
+
+	WebDriver driver;
+	
+// store the WebElements locators inside the class page 
+//username element storage 	
+@FindBy(id = "txtUsername") 
+@CacheLookup
+WebElement userid ;
+
+// password element storage 
+@FindBy(how = How.CLASS_NAME , using = "txtPassword")
+@CacheLookup
+WebElement user_pwd ;
+
+// login button element storage 
+@FindBy(how = How.XPATH , using = "//*[@id=\"btnLogin\"]")
+@CacheLookup
+WebElement login_button ;
+
+//Create Constructor WebDriver 
+
+public PageModelDemo (WebDriver ldriver) {
+	
+this.driver = ldriver ;	
+
+}
+
+
+
+public void login_OrangeHRM (String uid , String pwd) throws Exception {
+	
+userid.sendKeys(uid);	
+user_pwd.sendKeys(pwd);
+Thread.sleep(2000);
+login_button.click();
+Thread.sleep(5000);
+
+}
+
+//method to close the browser
+public void closebrowser () {
+	//close the browser 
+driver.close();	
+}
+   }

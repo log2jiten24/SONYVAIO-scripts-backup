@@ -1,0 +1,109 @@
+package classroomjavatraining;
+
+class Product {
+	
+private int productid ;
+private String name ;
+private double price ;
+private int stock ;
+
+private static int idCounter = 100 ;
+//parent class constructor 
+public Product (String productname , double productprice , int productstock)
+{
+this.idCounter = ++ idCounter ;
+this.name = productname ;
+this.price = productprice ;
+this.stock = productstock ;
+System.out.println("parent class constructor called ");
+}
+
+public float getdiscount (int discountpercentage ,int price)
+{
+float discountprice = price - (price * discountpercentage)*100 ;
+return 	discountprice ;
+}
+
+public void displaydetails (int discountpercentage ,int price)
+{
+System.out.println("Product name :" + name );
+double discountprice = getdiscount(40, 200) ;
+System.out.println("Discouted price :" + discountprice);
+}
+
+//usage of getters and setters - java encapsulation example 
+//by using getters - we can access private attribute inside public method
+public int getProductid ()
+{
+//we can access product id - private attribute inside public method	
+productid = 250 ;	
+return productid ;	
+}
+
+public void setProductid (int Productid)
+{
+//we can set new value to a private attribute inside public method	
+this.productid = Productid ;
+System.out.println("Product id displayed:" + Productid);
+}
+
+public void displaydetails (){
+
+System.out.println("displaydetails of parent class");	
+}
+
+ }
+
+public class GettersandsettersEncapsulation extends Product {
+
+	//calling the parent class constructor 
+	public GettersandsettersEncapsulation(String productname, double productprice, int productstock) {
+	//calling the parent class constructor	
+	super(productname, productprice, productstock);
+	//accessing the parent class method
+	super.setProductid(25);
+	System.out.println("child class constructor called");
+		
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void displaydetails (){
+    System.out.println("displaydetails of parent class");	
+		}
+
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    //it will display all the parent class methods only 
+	Product obj = new GettersandsettersEncapsulation("Amul", 500, 1);
+	//child class method will execute 
+	obj.displaydetails();
+	obj.displaydetails(70, 450);
+	double discountdetails = obj.getdiscount(50, 200) ;
+	System.out.println("discount details :" + discountdetails);
+	
+	int productid = obj.getProductid() ;
+	System.out.println("product id :" + productid);
+	
+	obj.setProductid(450);
+	
+	//this cant be possible - wrong syntax
+	//GettersandsettersEncapsulation obj = new Product("jbl", 789, 2);
+	//obj1 will show all the methods defined inside the parent and child class 
+	GettersandsettersEncapsulation obj1 = 
+	new GettersandsettersEncapsulation("JBL", 1000, 2);
+	//child class method executes
+	obj1.displaydetails();
+	
+	int productid1 = obj.getProductid() ;
+	System.out.println("product id :" + productid1);
+	
+	obj1.displaydetails(40, 200);
+	
+	double discountdetails01 =obj1.getdiscount(70, 600);
+	System.out.println("discount details of child class :" + discountdetails01);
+	
+	
+	}
+
+}

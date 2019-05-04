@@ -1,0 +1,1048 @@
+2017-09-09 12:51:30,163 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-09 13:02:18,261 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-10 11:10:46,708 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-10 11:11:42,137 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-16 08:46:28,294 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-16 12:53:25,735 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-17 12:40:37,629 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-23 15:46:39,465 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-24 11:20:59,701 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-24 21:47:54,688 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-25 21:57:06,388 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-08 10:48:19,409 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-08 12:50:29,887 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-09 22:42:20,744 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-10 21:37:19,546 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-13 20:58:27,673 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-13 22:22:28,822 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-14 09:34:06,757 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-14 11:27:15,639 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-14 18:47:57,834 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-15 11:26:39,190 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-15 17:33:58,760 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-21 12:24:59,152 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-22 11:38:27,820 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-22 22:50:55,826 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-24 21:08:45,744 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-25 21:17:27,717 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-27 21:53:21,123 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-28 10:13:22,503 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-29 11:36:05,772 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-29 11:39:27,521 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Gd_01:AID_01:0.0.1-SNAPSHOT @ C:\Users\Jiten\eclipse-workspace\AID_01\pom.xml.
+2017-10-29 11:39:30,073 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AID_01/src/main/java
+2017-10-29 11:39:30,076 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AID_01/src/main/resources
+2017-10-29 11:39:30,077 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AID_01/src/test/java
+2017-10-29 11:39:30,078 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AID_01/src/test/resources
+2017-10-29 11:39:30,873 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 11:39:30,883 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 11:39:30,892 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 11:39:30,893 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 11:52:17,950 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 11:52:17,961 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 11:52:17,965 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 11:52:17,972 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 11:53:03,503 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 11:53:03,505 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 11:53:03,508 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 11:53:03,510 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 13:13:39,731 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.jar
+2017-10-29 13:13:40,464 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.jar
+2017-10-29 13:13:40,870 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.jar
+2017-10-29 13:13:41,073 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.jar
+2017-10-29 13:13:41,728 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.pom
+2017-10-29 13:13:41,900 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.7.0/maven-compiler-plugin-3.7.0.pom
+2017-10-29 13:13:42,102 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2017-10-29 13:13:42,274 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2017-10-29 13:13:42,648 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/30/maven-parent-30.pom
+2017-10-29 13:13:42,898 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/30/maven-parent-30.pom
+2017-10-29 13:13:43,179 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2017-10-29 13:13:43,382 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2017-10-29 13:13:43,631 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+2017-10-29 13:13:43,834 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+2017-10-29 13:13:44,006 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+2017-10-29 13:13:44,333 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+2017-10-29 13:13:44,520 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+2017-10-29 13:13:44,786 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+2017-10-29 13:13:44,973 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+2017-10-29 13:13:45,144 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+2017-10-29 13:13:45,394 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+2017-10-29 13:13:45,644 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+2017-10-29 13:13:45,862 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.pom
+2017-10-29 13:13:46,049 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.pom
+2017-10-29 13:13:46,314 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+2017-10-29 13:13:46,548 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+2017-10-29 13:13:46,767 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.pom
+2017-10-29 13:13:46,954 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.pom
+2017-10-29 13:13:47,157 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/1.4.2/guice-plexus-1.4.2.pom
+2017-10-29 13:13:47,344 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/1.4.2/guice-plexus-1.4.2.pom
+2017-10-29 13:13:47,578 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/1.4.2/guice-bean-1.4.2.pom
+2017-10-29 13:13:47,765 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/1.4.2/guice-bean-1.4.2.pom
+2017-10-29 13:13:47,952 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/1.4.2/sisu-inject-1.4.2.pom
+2017-10-29 13:13:48,124 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/1.4.2/sisu-inject-1.4.2.pom
+2017-10-29 13:13:48,327 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/1.4.2/sisu-parent-1.4.2.pom
+2017-10-29 13:13:49,091 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/1.4.2/sisu-parent-1.4.2.pom
+2017-10-29 13:13:49,310 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/6/forge-parent-6.pom
+2017-10-29 13:13:49,840 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/6/forge-parent-6.pom
+2017-10-29 13:13:50,012 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+2017-10-29 13:13:50,214 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+2017-10-29 13:13:50,386 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+2017-10-29 13:13:50,573 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+2017-10-29 13:13:50,760 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom
+2017-10-29 13:13:51,119 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom
+2017-10-29 13:13:51,369 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.pom
+2017-10-29 13:13:51,603 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.pom
+2017-10-29 13:13:51,837 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.pom
+2017-10-29 13:13:52,024 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.pom
+2017-10-29 13:13:52,227 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7.pom
+2017-10-29 13:13:52,430 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7.pom
+2017-10-29 13:13:52,695 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+2017-10-29 13:13:52,882 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+2017-10-29 13:13:53,116 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+2017-10-29 13:13:53,303 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+2017-10-29 13:13:53,506 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+2017-10-29 13:13:53,724 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+2017-10-29 13:13:53,927 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+2017-10-29 13:13:54,114 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+2017-10-29 13:13:54,317 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2017-10-29 13:13:54,489 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2017-10-29 13:13:54,863 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+2017-10-29 13:13:55,066 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+2017-10-29 13:13:55,316 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+2017-10-29 13:13:55,503 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+2017-10-29 13:13:55,690 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+2017-10-29 13:13:55,940 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+2017-10-29 13:13:56,220 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+2017-10-29 13:13:56,439 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+2017-10-29 13:13:56,766 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+2017-10-29 13:13:56,954 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+2017-10-29 13:13:57,141 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+2017-10-29 13:13:57,312 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+2017-10-29 13:13:57,515 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+2017-10-29 13:13:57,703 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+2017-10-29 13:13:57,890 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+2017-10-29 13:13:58,061 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+2017-10-29 13:13:58,264 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.pom
+2017-10-29 13:13:58,576 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.pom
+2017-10-29 13:13:58,763 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/30/maven-shared-components-30.pom
+2017-10-29 13:13:58,951 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/30/maven-shared-components-30.pom
+2017-10-29 13:13:59,169 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2017-10-29 13:13:59,387 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2017-10-29 13:13:59,575 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2017-10-29 13:14:00,043 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2017-10-29 13:14:00,308 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2017-10-29 13:14:00,479 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2017-10-29 13:14:02,133 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.2/plexus-java-0.9.2.pom
+2017-10-29 13:14:02,320 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.2/plexus-java-0.9.2.pom
+2017-10-29 13:14:02,523 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.2/plexus-languages-0.9.2.pom
+2017-10-29 13:14:02,726 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.2/plexus-languages-0.9.2.pom
+2017-10-29 13:14:03,178 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+2017-10-29 13:14:03,865 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+2017-10-29 13:14:04,099 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_BETA/asm-6.0_BETA.pom
+2017-10-29 13:14:04,317 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_BETA/asm-6.0_BETA.pom
+2017-10-29 13:14:04,504 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_BETA/asm-parent-6.0_BETA.pom
+2017-10-29 13:14:04,847 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_BETA/asm-parent-6.0_BETA.pom
+2017-10-29 13:14:05,050 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+2017-10-29 13:14:05,284 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+2017-10-29 13:14:05,471 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M7/qdox-2.0-M7.pom
+2017-10-29 13:14:05,752 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M7/qdox-2.0-M7.pom
+2017-10-29 13:14:05,939 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2017-10-29 13:14:06,142 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+2017-10-29 13:14:06,329 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.2/plexus-compiler-api-2.8.2.pom
+2017-10-29 13:14:06,579 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.2/plexus-compiler-api-2.8.2.pom
+2017-10-29 13:14:06,782 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.2/plexus-compiler-2.8.2.pom
+2017-10-29 13:14:06,953 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.2/plexus-compiler-2.8.2.pom
+2017-10-29 13:14:07,141 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2017-10-29 13:14:07,328 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2017-10-29 13:14:07,515 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2017-10-29 13:14:07,765 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2017-10-29 13:14:07,999 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.2/plexus-compiler-manager-2.8.2.pom
+2017-10-29 13:14:08,201 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.2/plexus-compiler-manager-2.8.2.pom
+2017-10-29 13:14:08,404 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.2/plexus-compiler-javac-2.8.2.pom
+2017-10-29 13:14:08,576 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.2/plexus-compiler-javac-2.8.2.pom
+2017-10-29 13:14:08,763 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.2/plexus-compilers-2.8.2.pom
+2017-10-29 13:14:08,981 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.2/plexus-compilers-2.8.2.pom
+2017-10-29 13:14:09,262 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2017-10-29 13:14:09,824 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2017-10-29 13:14:10,058 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2017-10-29 13:14:11,945 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2017-10-29 13:14:12,117 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2017-10-29 13:14:14,956 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2017-10-29 13:14:15,112 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar
+2017-10-29 13:14:17,733 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar
+2017-10-29 13:14:18,373 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar
+2017-10-29 13:14:22,538 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar
+2017-10-29 13:14:22,756 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2017-10-29 13:14:23,115 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2017-10-29 13:14:23,318 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2017-10-29 13:14:24,098 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2017-10-29 13:14:24,301 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2017-10-29 13:14:26,141 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2017-10-29 13:14:26,344 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2017-10-29 13:14:26,625 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2017-10-29 13:14:26,984 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2017-10-29 13:14:27,171 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2017-10-29 13:14:27,327 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2017-10-29 13:14:27,748 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2017-10-29 13:14:27,920 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2017-10-29 13:14:29,542 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2017-10-29 13:14:29,761 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2017-10-29 13:14:30,104 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2017-10-29 13:14:30,322 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2017-10-29 13:14:30,884 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2017-10-29 13:14:31,087 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2017-10-29 13:14:31,305 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2017-10-29 13:14:31,508 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2017-10-29 13:14:32,463 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2017-10-29 13:14:32,697 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar
+2017-10-29 13:14:33,399 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar
+2017-10-29 13:14:33,805 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2017-10-29 13:14:34,101 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2017-10-29 13:14:34,335 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2017-10-29 13:14:34,757 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2017-10-29 13:14:34,913 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+2017-10-29 13:14:35,505 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+2017-10-29 13:14:35,661 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+2017-10-29 13:14:36,051 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+2017-10-29 13:14:36,223 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+2017-10-29 13:14:36,613 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+2017-10-29 13:14:36,800 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar
+2017-10-29 13:14:39,827 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar
+2017-10-29 13:14:39,998 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2017-10-29 13:14:42,354 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2017-10-29 13:14:42,541 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.2/plexus-java-0.9.2.jar
+2017-10-29 13:14:43,056 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.2/plexus-java-0.9.2.jar
+2017-10-29 13:14:43,227 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_BETA/asm-6.0_BETA.jar
+2017-10-29 13:14:43,961 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_BETA/asm-6.0_BETA.jar
+2017-10-29 13:14:44,382 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M7/qdox-2.0-M7.jar
+2017-10-29 13:14:48,360 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M7/qdox-2.0-M7.jar
+2017-10-29 13:14:48,531 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.2/plexus-compiler-api-2.8.2.jar
+2017-10-29 13:14:49,202 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.2/plexus-compiler-api-2.8.2.jar
+2017-10-29 13:14:49,374 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.2/plexus-compiler-manager-2.8.2.jar
+2017-10-29 13:14:49,577 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.2/plexus-compiler-manager-2.8.2.jar
+2017-10-29 13:14:49,764 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.2/plexus-compiler-javac-2.8.2.jar
+2017-10-29 13:14:50,251 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.2/plexus-compiler-javac-2.8.2.jar
+2017-10-29 13:14:53,044 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test:test1:0.0.1-SNAPSHOT @ C:\Users\Jiten\eclipse-workspace\AID_01\pom.xml.
+2017-10-29 13:14:53,964 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.pom
+2017-10-29 13:14:54,151 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.pom
+2017-10-29 13:14:54,339 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.pom
+2017-10-29 13:14:54,510 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.pom
+2017-10-29 13:14:54,697 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.pom
+2017-10-29 13:14:54,885 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.pom
+2017-10-29 13:14:55,072 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.pom
+2017-10-29 13:14:55,306 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.pom
+2017-10-29 13:14:55,477 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.7.5/byte-buddy-parent-1.7.5.pom
+2017-10-29 13:14:55,727 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.7.5/byte-buddy-parent-1.7.5.pom
+2017-10-29 13:14:55,930 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.pom
+2017-10-29 13:14:56,133 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.pom
+2017-10-29 13:14:56,304 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2017-10-29 13:14:56,679 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2017-10-29 13:14:56,881 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2017-10-29 13:14:57,131 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
+2017-10-29 13:14:57,365 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2017-10-29 13:14:58,098 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2017-10-29 13:14:58,972 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2017-10-29 13:14:59,908 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2017-10-29 13:15:00,703 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2017-10-29 13:15:02,497 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2017-10-29 13:15:02,965 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+2017-10-29 13:15:03,387 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+2017-10-29 13:15:03,792 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+2017-10-29 13:15:04,229 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+2017-10-29 13:15:04,697 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2017-10-29 13:15:05,196 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2017-10-29 13:15:05,680 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.pom
+2017-10-29 13:15:06,195 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.pom
+2017-10-29 13:15:06,819 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/23.0/guava-parent-23.0.pom
+2017-10-29 13:15:07,430 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/23.0/guava-parent-23.0.pom
+2017-10-29 13:15:07,977 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2017-10-29 13:15:08,601 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2017-10-29 13:15:09,131 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.pom
+2017-10-29 13:15:09,615 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.pom
+2017-10-29 13:15:10,130 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.0.18/error_prone_parent-2.0.18.pom
+2017-10-29 13:15:10,723 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.0.18/error_prone_parent-2.0.18.pom
+2017-10-29 13:15:11,471 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.pom
+2017-10-29 13:15:12,064 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.pom
+2017-10-29 13:15:12,641 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.pom
+2017-10-29 13:15:13,234 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.pom
+2017-10-29 13:15:13,811 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-parent/1.14/animal-sniffer-parent-1.14.pom
+2017-10-29 13:15:14,513 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-parent/1.14/animal-sniffer-parent-1.14.pom
+2017-10-29 13:15:15,184 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom
+2017-10-29 13:15:15,933 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom
+2017-10-29 13:15:16,604 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2017-10-29 13:15:17,243 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/codehaus-parent/4/codehaus-parent-4.pom
+2017-10-29 13:15:17,914 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2017-10-29 13:15:18,616 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.pom
+2017-10-29 13:15:19,287 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2017-10-29 13:15:20,067 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.3/httpcomponents-client-4.5.3.pom
+2017-10-29 13:15:20,816 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2017-10-29 13:15:21,721 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom
+2017-10-29 13:15:22,454 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2017-10-29 13:15:23,218 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.pom
+2017-10-29 13:15:23,936 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2017-10-29 13:15:24,778 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.6/httpcomponents-core-4.4.6.pom
+2017-10-29 13:15:25,574 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2017-10-29 13:15:26,557 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
+2017-10-29 13:15:27,383 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2017-10-29 13:15:28,631 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+2017-10-29 13:15:30,722 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0.pom
+2017-10-29 13:15:31,611 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0.pom
+2017-10-29 13:15:32,469 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.pom
+2017-10-29 13:15:34,279 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.pom
+2017-10-29 13:15:35,199 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.8/testng-6.8.pom
+2017-10-29 13:15:37,024 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.8/testng-6.8.pom
+2017-10-29 13:15:37,945 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2017-10-29 13:15:38,943 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2017-10-29 13:15:39,895 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2017-10-29 13:15:40,987 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2017-10-29 13:15:41,985 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2017-10-29 13:15:43,001 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2017-10-29 13:15:45,241 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2017-10-29 13:15:46,348 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2017-10-29 13:15:47,409 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+2017-10-29 13:15:47,955 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.pom
+2017-10-29 13:15:48,501 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+2017-10-29 13:15:49,063 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/beanshell/2.0b4/beanshell-2.0b4.pom
+2017-10-29 13:15:49,593 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.pom
+2017-10-29 13:15:50,467 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.pom
+2017-10-29 13:15:51,107 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.pom
+2017-10-29 13:15:52,121 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.pom
+2017-10-29 13:15:52,698 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.jar
+2017-10-29 13:16:14,803 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.jar
+2017-10-29 13:16:15,053 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.jar
+2017-10-29 13:16:17,486 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.jar
+2017-10-29 13:16:17,845 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.jar
+2017-10-29 13:16:24,276 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.jar
+2017-10-29 13:16:24,791 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.jar
+2017-10-29 13:16:58,491 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.jar
+2017-10-29 13:16:58,881 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar
+2017-10-29 13:16:59,895 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar
+2017-10-29 13:17:00,347 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2017-10-29 13:17:02,906 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2017-10-29 13:17:03,389 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2017-10-29 13:17:04,341 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2017-10-29 13:17:04,981 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+2017-10-29 13:17:07,757 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+2017-10-29 13:17:08,054 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.jar
+2017-10-29 13:17:33,064 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.jar
+2017-10-29 13:17:33,376 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2017-10-29 13:17:33,922 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2017-10-29 13:17:34,249 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar
+2017-10-29 13:17:34,670 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar
+2017-10-29 13:17:35,029 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
+2017-10-29 13:17:35,435 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
+2017-10-29 13:17:35,856 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
+2017-10-29 13:17:36,293 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
+2017-10-29 13:17:36,745 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2017-10-29 13:17:52,579 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2017-10-29 13:17:53,687 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2017-10-29 13:18:04,794 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2017-10-29 13:18:05,513 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar
+2017-10-29 13:18:11,301 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar
+2017-10-29 13:18:11,645 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar
+2017-10-29 13:18:22,518 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar
+2017-10-29 13:18:23,298 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.8/testng-6.8.jar
+2017-10-29 13:18:36,308 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.8/testng-6.8.jar
+2017-10-29 13:18:36,636 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2017-10-29 13:18:46,516 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2017-10-29 13:18:47,218 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2017-10-29 13:18:52,787 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2017-10-29 13:18:53,660 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+2017-10-29 13:19:01,086 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar
+2017-10-29 13:19:02,162 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.jar
+2017-10-29 13:19:02,755 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.jar
+2017-10-29 13:19:03,301 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar
+2017-10-29 13:19:07,201 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar
+2017-10-29 13:19:11,957 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 13:19:11,973 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 13:19:11,988 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 13:19:12,035 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 13:19:13,323 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 13:19:13,323 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 13:19:13,323 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 13:19:13,323 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 13:19:56,893 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-29 13:20:11,324 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 13:20:11,336 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-29 13:20:11,341 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-29 13:20:11,343 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-31 21:26:06,388 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-31 21:26:43,590 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-31 21:26:43,609 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-31 21:26:43,617 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-31 21:26:43,620 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 22:09:14,323 [Worker-10] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-03 21:59:36,289 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-04 11:34:12,889 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-04 12:55:35,567 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-04 13:25:06,290 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-04 13:25:35,184 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-04 13:25:35,209 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-04 13:25:35,215 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-04 13:25:35,227 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-12 17:20:52,115 [Worker-10] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-13 21:25:11,458 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-15 23:06:19,709 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-18 17:07:04,358 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-19 00:38:46,068 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-21 21:51:45,639 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-23 22:21:49,256 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-11-26 13:36:16,061 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-12-16 18:57:20,560 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-12-16 19:07:13,176 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-16 19:08:53,228 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-16 19:14:22,408 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-16 19:14:22,457 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-16 19:14:22,464 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-16 19:14:22,496 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-16 19:19:04,856 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-16 19:23:58,487 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+java.lang.IllegalArgumentException: Path must include project and resource name: /client-combined-3.5.3-nodeps.jar
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2074) ~[na:na]
+	at org.eclipse.core.internal.resources.Container.getFile(Container.java:193) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifactInIndex(BuildPathManager.java:455) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifacts(BuildPathManager.java:403) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifact(BuildPathManager.java:421) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.JavaElementsAdapterFactory.getAdapter(JavaElementsAdapterFactory.java:58) ~[na:na]
+	at org.eclipse.core.internal.adapter.AdapterFactoryProxy.getAdapter(AdapterFactoryProxy.java:82) ~[org.eclipse.equinox.registry_3.7.0.v20170222-1344.jar:na]
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:295) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:68) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.scheduleDownload(BuildPathManager.java:724) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:56) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:71) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:80) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:129) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:344) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:311) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$18(WorkbenchPage.java:293) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:211) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:247) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:755) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:680) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:675) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3269) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.jdt.internal.debug.ui.console.JavaStackTraceHyperlink.processSearchResult(JavaStackTraceHyperlink.java:170) [org.eclipse.jdt.debug.ui_3.8.0.v20170516-1058.jar:na]
+	at org.eclipse.jdt.internal.debug.ui.console.JavaStackTraceHyperlink$2.runInUIThread(JavaStackTraceHyperlink.java:147) [org.eclipse.jdt.debug.ui_3.8.0.v20170516-1058.jar:na]
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:95) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:37) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4213) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3820) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[org.eclipse.core.databinding.observable_1.6.100.v20170515-1119.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153) ~[org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680) ~[org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[org.eclipse.core.databinding.observable_1.6.100.v20170515-1119.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594) ~[org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_131]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+2017-12-26 21:50:35,686 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-12-28 22:47:00,030 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-12-28 22:50:41,314 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-28 22:50:41,412 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-28 22:50:41,416 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-12-28 22:50:41,442 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-12-29 22:35:24,164 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-09 21:43:00,021 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-09 21:43:11,406 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-09 21:43:11,455 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-09 21:43:11,458 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-09 21:43:11,459 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-09 21:43:15,001 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-01-11 22:41:43,820 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-12 00:04:23,932 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-12 00:04:54,726 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-12 00:05:15,062 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-12 00:05:15,085 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-12 00:05:15,097 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-12 00:05:15,101 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-05 16:20:13,109 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-03-05 16:20:28,051 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-03-19 22:31:20,993 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-01 22:16:45,018 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-09 21:13:01,545 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-09 21:56:14,161 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+java.lang.IllegalArgumentException: Path must include project and resource name: /client-combined-3.5.3-nodeps.jar
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2074) ~[na:na]
+	at org.eclipse.core.internal.resources.Container.getFile(Container.java:193) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifactInIndex(BuildPathManager.java:455) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifacts(BuildPathManager.java:403) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifact(BuildPathManager.java:421) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.JavaElementsAdapterFactory.getAdapter(JavaElementsAdapterFactory.java:58) ~[na:na]
+	at org.eclipse.core.internal.adapter.AdapterFactoryProxy.getAdapter(AdapterFactoryProxy.java:82) ~[org.eclipse.equinox.registry_3.7.0.v20170222-1344.jar:na]
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:295) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:68) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.scheduleDownload(BuildPathManager.java:724) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:56) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:71) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:80) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:129) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:344) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:311) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$18(WorkbenchPage.java:293) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:211) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:247) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:755) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:680) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.AbstractPartRenderer.activate(AbstractPartRenderer.java:95) [org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.lambda$0(ContributedPartRenderer.java:60) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.100.v20170508-1121.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1542) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Shell.WM_MOUSEACTIVATE(Shell.java:2467) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4887) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1657) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2199) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2555) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:88) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(OS.java:2454) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Button.callWindowProc(Button.java:350) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4941) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5191) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3152) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3812) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153) ~[org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_131]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+2018-04-09 23:06:13,527 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+java.lang.IllegalArgumentException: Path must include project and resource name: /client-combined-3.5.3-nodeps.jar
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2074) ~[na:na]
+	at org.eclipse.core.internal.resources.Container.getFile(Container.java:193) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifactInIndex(BuildPathManager.java:455) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifacts(BuildPathManager.java:403) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifact(BuildPathManager.java:421) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.JavaElementsAdapterFactory.getAdapter(JavaElementsAdapterFactory.java:58) ~[na:na]
+	at org.eclipse.core.internal.adapter.AdapterFactoryProxy.getAdapter(AdapterFactoryProxy.java:82) ~[org.eclipse.equinox.registry_3.7.0.v20170222-1344.jar:na]
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:295) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:68) ~[org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.scheduleDownload(BuildPathManager.java:724) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:56) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:71) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:80) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:129) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:344) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:311) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$18(WorkbenchPage.java:293) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:211) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20170207-1454.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:247) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:755) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:680) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.AbstractPartRenderer.activate(AbstractPartRenderer.java:95) [org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.lambda$0(ContributedPartRenderer.java:60) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.100.v20170508-1121.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4428) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1542) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1505) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.sendFocusEvent(Control.java:2993) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Widget.wmSetFocus(Widget.java:2437) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.WM_SETFOCUS(Control.java:5490) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Canvas.WM_SETFOCUS(Canvas.java:485) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4913) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5178) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.SetFocus(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.forceFocus(Control.java:1114) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3492) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1101) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setFocus(AbstractTextEditor.java:6191) ~[na:na]
+	at org.eclipse.ui.texteditor.StatusTextEditor.setFocus(StatusTextEditor.java:144) ~[na:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.setFocus(JavaEditor.java:2356) ~[na:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor.setFocus(ClassFileEditor.java:978) ~[na:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.delegateSetFocus(CompatibilityPart.java:216) ~[na:na]
+	at sun.reflect.GeneratedMethodAccessor56.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_131]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) ~[org.eclipse.e4.core.di_1.6.100.v20170421-1418.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:305) ~[org.eclipse.e4.core.di_1.6.100.v20170421-1418.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:311) ~[org.eclipse.e4.core.di_1.6.100.v20170421-1418.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233) ~[org.eclipse.e4.core.di_1.6.100.v20170421-1418.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:107) ~[org.eclipse.e4.core.contexts_1.6.0.v20170322-1144.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.focusGui(PartRenderingEngine.java:794) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.setFocus(ContributedPartRenderer.java:103) ~[org.eclipse.e4.ui.workbench.renderers.swt_0.14.100.v20170508-1121.jar:na]
+	at org.eclipse.swt.custom.CTabItem.setFocus(CTabItem.java:332) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setFocus(CTabFolder.java:2631) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.fixFocus(Control.java:1069) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Control.setVisible(Control.java:4017) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3175) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3132) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1301) ~[org.eclipse.e4.ui.workbench.renderers.swt_0.14.100.v20170508-1121.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.lambda$0(LazyStackRenderer.java:68) ~[org.eclipse.e4.ui.workbench.renderers.swt_0.14.100.v20170508-1121.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40) ~[org.eclipse.e4.ui.services_1.3.0.v20170307-2032.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144) ~[na:na]
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4889) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36) ~[org.eclipse.e4.ui.services_1.3.0.v20170307-2032.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201) ~[na:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197) ~[na:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1) ~[na:na]
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135) ~[na:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78) ~[na:na]
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39) ~[na:na]
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:52) ~[org.eclipse.e4.ui.services_1.3.0.v20170307-2032.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60) ~[org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374) ~[org.eclipse.emf.common_2.13.0.v20170609-0707.jar:na]
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173) ~[org.eclipse.e4.ui.model.workbench_2.0.0.v20170228-1842.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620) ~[org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584) ~[org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:768) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1184) [org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158) ~[na:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3107) [org.eclipse.ui.workbench_3.110.0.v20170524-2113.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:373) ~[na:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:179) ~[na:na]
+	at org.eclipse.jdt.ui.JavaUI.openInEditor(JavaUI.java:700) ~[na:na]
+	at org.eclipse.jdt.ui.JavaUI.openInEditor(JavaUI.java:678) ~[na:na]
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.openDeclaration(JavadocHover.java:564) ~[na:na]
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover$1.handleDeclarationLink(JavadocHover.java:627) ~[na:na]
+	at org.eclipse.jdt.internal.ui.viewsupport.JavaElementLinks$1.changing(JavaElementLinks.java:299) ~[na:na]
+	at org.eclipse.swt.browser.IE.lambda$6(IE.java:525) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.ole.win32.OleEventTable.sendEvent(OleEventTable.java:55) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.ole.win32.OleEventSink.notifyListener(OleEventSink.java:156) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.ole.win32.OleEventSink.Invoke(OleEventSink.java:124) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.ole.win32.OleEventSink.access$1(OleEventSink.java:101) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.ole.win32.OleEventSink$1.method6(OleEventSink.java:75) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.ole.win32.COMObject.callback6(COMObject.java:119) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2560) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3815) ~[org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170526-0827.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1044) ~[org.eclipse.e4.ui.workbench.swt_0.14.100.v20170519-1601.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153) ~[org.eclipse.e4.ui.workbench_1.5.0.v20170412-0908.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.12.0.v20170512-1932.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_131]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499) ~[org.eclipse.equinox.launcher_1.4.0.v20161219-1356.jar:na]
+2018-04-10 22:29:11,695 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-15 23:15:07,644 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-24 22:36:31,291 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-24 23:28:10,520 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-24 23:28:10,894 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-24 23:28:10,910 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-24 23:28:10,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-24 22:49:36,623 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-24 22:50:06,853 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 22:50:07,191 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-24 22:50:07,202 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-24 22:50:07,205 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-26 21:55:38,968 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-07-28 12:09:32,382 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-07-28 12:09:33,257 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-07-29 00:43:57,479 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-07-29 01:35:20,734 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-07-29 14:17:05,968 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-02 16:35:50,501 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-02 16:36:02,905 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-08-07 16:48:33,755 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-07 16:48:35,533 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-08-07 16:49:39,825 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 16:49:39,894 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 16:49:39,905 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-07 16:49:39,939 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-07 17:28:28,741 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-07 17:28:29,037 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-08-12 14:01:37,192 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-12 14:01:49,878 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-08-15 13:47:08,705 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-15 14:08:15,151 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 14:08:15,214 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-15 14:08:15,229 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-15 14:08:15,229 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-18 11:50:15,810 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-21 21:20:04,238 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-22 00:05:33,314 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-23 22:47:29,961 [Worker-9] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-23 23:20:58,681 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 23:20:58,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 23:20:58,721 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 23:20:58,721 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-25 19:43:15,453 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-26 20:59:35,251 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-28 22:34:16,609 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-28 22:34:19,058 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-08-29 23:01:01,391 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-29 23:01:17,910 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-08-30 22:19:40,684 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-30 22:26:54,047 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-09-02 13:22:09,932 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test:test1:0.0.1-SNAPSHOT @ C:\Users\Jiten\eclipse-workspace\AID_01\pom.xml.
+2018-09-02 13:22:39,430 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.pom
+2018-09-02 13:22:41,437 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.pom
+2018-09-02 13:22:41,638 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.17/surefire-2.17.pom
+2018-09-02 13:22:41,923 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.17/surefire-2.17.pom
+2018-09-02 13:26:44,994 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test:test1:0.0.1-SNAPSHOT @ C:\Users\Jiten\eclipse-workspace\AID_01\pom.xml.
+2018-09-02 13:26:55,121 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-02 13:26:55,198 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 13:27:08,701 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-02 13:27:08,708 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 13:27:08,704 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test:test1:0.0.1-SNAPSHOT @ C:\Users\Jiten\eclipse-workspace\AID_01\pom.xml.
+2018-09-02 13:27:19,928 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-02 13:27:19,984 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 13:27:19,990 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-02 13:27:19,993 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-03 22:10:41,820 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-03 22:10:42,662 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-03 22:10:42,671 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-03 22:10:42,774 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 22:11:18,422 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 22:11:19,960 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-18 22:11:19,968 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-18 22:11:20,026 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-20 22:40:25,000 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-20 22:40:25,070 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-20 22:40:25,073 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-20 22:40:25,172 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-22 14:27:14,739 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-22 14:27:15,232 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-22 14:27:15,243 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-22 14:27:15,248 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-13 19:36:12,600 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+java.lang.IllegalArgumentException: Path must include project and resource name: /client-combined-3.5.3-nodeps.jar
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:63) ~[org.eclipse.equinox.common_3.9.0.v20160831-0037.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.newResource(Workspace.java:2074) ~[na:na]
+	at org.eclipse.core.internal.resources.Container.getFile(Container.java:193) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifactInIndex(BuildPathManager.java:451) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifacts(BuildPathManager.java:399) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.findArtifact(BuildPathManager.java:417) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.JavaElementsAdapterFactory.getAdapter(JavaElementsAdapterFactory.java:58) ~[na:na]
+	at org.eclipse.core.internal.adapter.AdapterFactoryProxy.getAdapter(AdapterFactoryProxy.java:82) ~[org.eclipse.equinox.registry_3.6.100.v20160223-2218.jar:na]
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:294) ~[org.eclipse.equinox.common_3.9.0.v20160831-0037.jar:na]
+	at org.eclipse.core.runtime.PlatformObject.getAdapter(PlatformObject.java:68) ~[org.eclipse.equinox.common_3.9.0.v20160831-0037.jar:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.scheduleDownload(BuildPathManager.java:720) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:56) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:71) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:80) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:129) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:344) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:311) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$18(WorkbenchPage.java:293) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:211) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.9.0.v20160831-0037.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:247) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:757) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:682) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.AbstractPartRenderer.activate(AbstractPartRenderer.java:95) [org.eclipse.e4.ui.workbench.swt_0.14.100.v20160909-0734.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.handleEvent(ContributedPartRenderer.java:63) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.0.v20160909-0734.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1542) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1505) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.sendFocusEvent(Control.java:2940) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Widget.wmSetFocus(Widget.java:2437) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.WM_SETFOCUS(Control.java:5438) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Canvas.WM_SETFOCUS(Canvas.java:485) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4861) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5102) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.internal.win32.OS.SetFocus(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.forceFocus(Control.java:1114) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3439) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1124) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setFocus(AbstractTextEditor.java:6191) [org.eclipse.ui.workbench.texteditor_3.10.100.v20160818-1620.jar:na]
+	at org.eclipse.ui.texteditor.StatusTextEditor.setFocus(StatusTextEditor.java:120) [org.eclipse.ui.workbench.texteditor_3.10.100.v20160818-1620.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.setFocus(JavaEditor.java:2356) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor.setFocus(ClassFileEditor.java:978) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.delegateSetFocus(CompatibilityPart.java:203) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_171]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_171]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_171]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_171]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55) [org.eclipse.e4.core.di_1.6.100.v20160901-1938.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282) [org.eclipse.e4.core.di_1.6.100.v20160901-1938.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:288) [org.eclipse.e4.core.di_1.6.100.v20160901-1938.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:259) [org.eclipse.e4.core.di_1.6.100.v20160901-1938.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:107) [org.eclipse.e4.core.contexts_1.5.0.v20160901-1938.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.focusGui(PartRenderingEngine.java:779) [org.eclipse.e4.ui.workbench.swt_0.14.100.v20160909-0734.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$2.setFocus(ContributedPartRenderer.java:102) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.0.v20160909-0734.jar:na]
+	at org.eclipse.swt.custom.CTabItem.setFocus(CTabItem.java:332) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setFocus(CTabFolder.java:2602) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.fixFocus(Control.java:1069) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Control.setVisible(Control.java:3964) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3146) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3103) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1317) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.0.v20160909-0734.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer$1.handleEvent(LazyStackRenderer.java:71) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.0.v20160909-0734.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40) [org.eclipse.e4.ui.services_1.3.0.v20160901-2115.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4813) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:212) [org.eclipse.e4.ui.workbench.swt_0.14.100.v20160909-0734.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36) [org.eclipse.e4.ui.services_1.3.0.v20160901-2115.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:201) [org.eclipse.equinox.event_1.4.0.v20160627-0804.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197) [org.eclipse.equinox.event_1.4.0.v20160627-0804.jar:na]
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1) [org.eclipse.equinox.event_1.4.0.v20160627-0804.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230) [org.eclipse.osgi_3.12.0.v20160908-1235.jar:na]
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148) [org.eclipse.osgi_3.12.0.v20160908-1235.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135) [org.eclipse.equinox.event_1.4.0.v20160627-0804.jar:na]
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78) [org.eclipse.equinox.event_1.4.0.v20160627-0804.jar:na]
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39) [org.eclipse.equinox.event_1.4.0.v20160627-0804.jar:na]
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:94) [org.eclipse.e4.ui.services_1.3.0.v20160901-2115.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374) [org.eclipse.emf.common_2.12.0.v20160420-0247.jar:na]
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:173) [org.eclipse.e4.ui.model.workbench_1.2.0.v20160229-1459.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:620) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:584) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:770) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1186) [org.eclipse.e4.ui.workbench_1.5.0.v20160910-0416.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3261) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$25(WorkbenchPage.java:3176) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$10.run(WorkbenchPage.java:3158) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3153) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3117) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3107) [org.eclipse.ui.workbench_3.109.0.v20160909-0731.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:373) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:179) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:256) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:171) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:275) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:249) [org.eclipse.jdt.ui_3.12.100.v20160910-0421.jar:na]
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473) [org.eclipse.jface_3.12.100.v20160909-0734.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565) [org.eclipse.jface_3.12.100.v20160909-0734.jar:na]
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397) [org.eclipse.jface_3.12.100.v20160909-0734.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816) [org.eclipse.swt.win32.win32.x86_64_3.106.0.v20160914-1500.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.100.v20160909-0734.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) ~[na:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:692) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) ~[org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) ~[org.eclipse.osgi_3.12.0.v20160908-1235.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) ~[org.eclipse.osgi_3.12.0.v20160908-1235.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) ~[org.eclipse.osgi_3.12.0.v20160908-1235.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) ~[org.eclipse.osgi_3.12.0.v20160908-1235.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_171]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_171]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_171]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_171]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) ~[org.eclipse.equinox.launcher_1.3.200.v20160914-0716.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) ~[org.eclipse.equinox.launcher_1.3.200.v20160914-0716.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) ~[org.eclipse.equinox.launcher_1.3.200.v20160914-0716.jar:na]
+2018-11-09 22:25:57,308 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-09 22:25:57,618 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-09 22:25:57,629 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-09 22:25:57,926 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-14 21:51:42,926 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-11-14 21:52:21,654 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jiten\eclipse-workspace\AID_01
+2018-11-14 21:52:21,660 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Prunprogram -B firstrun
+2018-11-14 21:53:53,906 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2018-11-14 21:53:54,919 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/m2e/workspace/org.eclipse.m2e.workspace.cli/0.3.1/org.eclipse.m2e.workspace.cli-0.3.1-sources.jar
+2018-11-14 21:53:59,253 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2018-11-14 21:53:59,787 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
+2018-11-14 21:54:02,230 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.9/maven-core-3.3.9-sources.jar
+2018-11-14 21:54:03,842 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.9/maven-core-3.3.9-sources.jar
+2018-11-14 21:54:05,221 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9-sources.jar
+2018-11-14 21:54:06,209 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9-sources.jar
+2018-11-14 21:54:08,770 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.9/maven-settings-3.3.9-sources.jar
+2018-11-14 21:54:09,419 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.9/maven-settings-3.3.9-sources.jar
+2018-11-14 21:54:12,215 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.9/maven-settings-builder-3.3.9-sources.jar
+2018-11-14 21:54:12,841 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.9/maven-settings-builder-3.3.9-sources.jar
+2018-11-14 21:54:13,661 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9-sources.jar
+2018-11-14 21:54:13,979 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9-sources.jar
+2018-11-14 21:54:15,807 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.9/maven-repository-metadata-3.3.9-sources.jar
+2018-11-14 21:54:17,075 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.9/maven-repository-metadata-3.3.9-sources.jar
+2018-11-14 21:54:18,049 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9-sources.jar
+2018-11-14 21:54:19,088 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9-sources.jar
+2018-11-14 21:54:20,003 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9-sources.jar
+2018-11-14 21:54:21,826 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9-sources.jar
+2018-11-14 21:54:23,630 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9-sources.jar
+2018-11-14 21:54:24,721 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9-sources.jar
+2018-11-14 21:54:25,538 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.9/maven-aether-provider-3.3.9-sources.jar
+2018-11-14 21:54:26,200 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.9/maven-aether-provider-3.3.9-sources.jar
+2018-11-14 21:54:27,107 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2018-11-14 21:54:28,574 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114-sources.jar
+2018-11-14 21:54:30,346 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2018-11-14 21:54:31,321 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114-sources.jar
+2018-11-14 21:54:32,186 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2018-11-14 21:54:33,354 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21-sources.jar
+2018-11-14 21:54:34,486 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22-sources.jar
+2018-11-14 21:54:35,998 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22-sources.jar
+2018-11-14 21:54:44,863 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6-sources.jar
+2018-11-14 21:54:45,382 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6-sources.jar
+2018-11-14 21:54:49,136 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2018-11-14 21:54:50,193 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3-sources.jar
+2018-11-14 21:54:54,258 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
+2018-11-14 21:54:56,335 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4-sources.jar
+2018-11-14 21:54:57,823 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.9/maven-embedder-3.3.9-sources.jar
+2018-11-14 21:54:58,858 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-embedder/3.3.9/maven-embedder-3.3.9-sources.jar
+2018-11-14 21:55:00,655 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2018-11-14 21:55:00,820 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.7/plexus-cipher-1.7-sources.jar
+2018-11-14 21:55:04,037 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2018-11-14 21:55:05,301 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar
+2018-11-14 21:55:12,089 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.9/maven-compat-3.3.9-sources.jar
+2018-11-14 21:55:14,570 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.3.9/maven-compat-3.3.9-sources.jar
+2018-11-14 21:55:16,544 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10-sources.jar
+2018-11-14 21:55:18,171 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10-sources.jar
+2018-11-14 21:55:20,684 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2018-11-14 21:55:21,569 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
+2018-11-14 21:55:24,873 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar
+2018-11-14 21:55:27,214 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0-sources.jar
+2018-11-14 21:55:28,712 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:29,334 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:30,609 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:31,856 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:33,143 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.16.0/aether-connector-okhttp-0.16.0-sources.jar
+2018-11-14 21:55:34,718 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/takari/aether/aether-connector-okhttp/0.16.0/aether-connector-okhttp-0.16.0-sources.jar
+2018-11-14 21:55:38,304 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.5.0/okhttp-2.5.0-sources.jar
+2018-11-14 21:55:40,007 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okhttp/okhttp/2.5.0/okhttp-2.5.0-sources.jar
+2018-11-14 21:55:41,086 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.6.0/okio-1.6.0-sources.jar
+2018-11-14 21:55:42,013 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/squareup/okio/okio/1.6.0/okio-1.6.0-sources.jar
+2018-11-14 21:55:43,481 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:44,111 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-connector-basic/1.0.2.v20150114/aether-connector-basic-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:45,518 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:46,526 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-transport-wagon/1.0.2.v20150114/aether-transport-wagon-1.0.2.v20150114-sources.jar
+2018-11-14 21:55:47,975 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.10/wagon-file-2.10-sources.jar
+2018-11-14 21:55:48,725 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/2.10/wagon-file-2.10-sources.jar
+2018-11-14 21:55:51,160 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2018-11-14 21:55:53,937 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2018-11-14 21:55:55,813 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2018-11-14 21:55:56,714 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.5/slf4j-simple-1.7.5-sources.jar
+2018-12-30 15:15:28,520 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-30 15:15:28,622 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-30 15:15:28,632 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-12-30 15:15:28,639 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

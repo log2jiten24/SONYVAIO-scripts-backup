@@ -1,0 +1,39 @@
+package classroomjavatraining;
+
+
+
+//class Base {
+//	public void mehod (int a) {
+//		System.out.println("Base method");
+//	}
+//	
+//	class Derived extends Base {
+//		
+//		public void method (){
+//		
+//		System.out.println("Derived method");	
+//		}
+//	}
+//}
+//public class Tester {
+//
+//	public static void main(String[] args) {
+//		// TODO Auto-generated method stub
+//
+//		Base obj = new Derived ();
+//		//iy will show complation error 
+//		
+//		obj.mehod(25);
+//		
+
+public class Tester {
+
+
+	public static void main(String[] args) {
+
+		//int x, y ,z ;
+		//System.out.println (x + y + z);
+		
+
+  }
+}

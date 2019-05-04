@@ -1,0 +1,47 @@
+package openhrmtestcases;
+
+import org.openqa.selenium.WebDriver;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.Test;
+import openloginpage.*;
+import seleniumtestng.*;
+public class LoginPage {
+  
+
+@Test
+  public void verifylogin() 
+       {
+	  System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
+	  
+	  WebDriver driver = new FirefoxDriver();
+	  driver.manage().window().maximize();
+	  driver.get("http://opensource.demo.orangehrmlive.com/index.php/auth/login");
+	 //createing object of the loginpage class 
+	  Loginclass login = new Loginclass(driver);
+	  // creating object of the takescreenshot class 
+	  TakeScreenshot2 snapshot = new TakeScreenshot2();
+	  //created object of the takescreenshot2 class for taking the screenshot
+	  try {
+		snapshot.takeSnapshot(driver, "d://OHRM.jpg");
+	} catch (Exception e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	  login.typeusername();
+	  login.typepassword();
+	  login.clickonsubmit();
+	  
+  }
+
+
+@AfterTest
+
+public void closedriver (WebDriver driver)
+{
+	Loginclass login = new Loginclass(driver);
+	login.closebrowser();
+}
+   }
+

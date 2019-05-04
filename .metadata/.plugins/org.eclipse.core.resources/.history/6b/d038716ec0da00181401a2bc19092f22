@@ -1,0 +1,47 @@
+package classroomjavatraining;
+
+public class Trainingjava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a = 100 ;
+		int b ;
+		int c ;
+		
+		b = ++a ;
+		c = b++ ;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		
+		int numbers [] = {6,10,12,15} ;
+		int sum = 0 ; int count = 0 ;
+		
+		//to find the largest element inside an array 
+		
+		int largest = numbers[0] ;
+		
+		for (int x = 0 ; x < numbers.length; x ++ ) 
+		{
+			sum = sum + numbers[x] ;
+			System.out.println("summation of numbers:" + sum);
+			
+			if (numbers[x] > largest) 
+			largest = numbers[x] ;
+			System.out.println("largest number :" + largest);
+		}
+		double average = (double)sum/numbers.length ;
+		//to view the average in decimal point 
+		System.out.println ("average of numbers :" + average) ;
+		
+		for (int value : numbers)
+		{
+			if (value > average)
+			count ++ ;	
+		}
+		System.out.println("sales above average :" + count );
+		
+	}
+
+}

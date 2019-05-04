@@ -1,0 +1,38 @@
+package classroomjavatraining;
+
+public class Trainingjava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a = 100 ;
+		int b ;
+		int c ;
+		
+		b = ++a ;
+		c = b++ ;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		
+		int numbers [] = {6,10,12,15} ;
+		int sum = 0 ; int count = 0 ;
+		
+		for (int x = 0 ; x < numbers.length; x ++ ) 
+		{
+			sum = sum + numbers[x] ;
+			System.out.println("summation of numbers:" + sum);
+		}
+		float average = sum/numbers.length ;
+		System.out.println ("average of numbers :" + average) ;
+		
+		for (int value : numbers)
+		{
+			if (value > average)
+			count ++ ;	
+		}
+		System.out.println("sales above average :" + count );
+		
+	}
+
+}

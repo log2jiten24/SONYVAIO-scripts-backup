@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+package PageObjectModel;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+/**
+ * @author Jiten
+ *
+ */
+public class PageFactory {
+
+	// store the WebElements locators inside the class page 
+//username element storage 	
+@FindBy(id = "txtUsername") 
+WebElement userid ;
+
+@FindBy(how = )
+
+
+
+
+
+}

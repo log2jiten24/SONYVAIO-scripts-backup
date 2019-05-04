@@ -1,0 +1,9 @@
+package Switchhandle;
+
+import org.testng.annotations.Test;
+
+public class Switchhandle {
+  @Test
+  public void f() {
+  }
+}

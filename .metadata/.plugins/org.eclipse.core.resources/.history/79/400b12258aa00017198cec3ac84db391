@@ -1,0 +1,108 @@
+package javaprogramming;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.ListIterator;
+class Student {
+	public  int rollno;
+    public String name;
+    public int age;
+	Student (int rollno, String name, int age ){
+		this.rollno =  rollno;
+		this.name = name;
+		this.age = age;
+	}
+}
+
+
+
+
+public class Arraylist {
+
+//*********** Arraylist demonstration using while loop or using iterator.***************
+//	public static void main(String[] args) {
+//   ArrayList<String>a1 = new ArrayList<String>();    
+//	a1.add("Jitu")	;
+//	a1.add("Kumar");
+//	a1.add("Singh");	
+//	ListIterator<String> itr = a1.listIterator();	
+//	while (itr.hasNext()) {		
+//	System.out.println("elements of the arraylist is " + itr.next());
+//	}		
+//	}
+//}
+
+//************demonstration using for each loop for arraylist****************/////
+//public static void main (String[]args) {
+//ArrayList<String>a1 = new ArrayList<String>();
+//  a1.add("Jitu")	;
+//	a1.add("Kumar");
+//	a1.add("Singh");
+//	//using for each loop to display the elements in the arraylist
+//	for (String element:a1) {
+//		System.out.println("elements of the arraylist is" + element);
+//	}
+//}
+//}
+
+//************* demonstration using forloop for arraylist***********/////
+//	public static void main (String[]args) {
+//    ArrayList<String>a1 = new ArrayList<String>();
+//    a1.add("Jitu")	;
+//	a1.add("Kumar");
+//	a1.add("Singh");
+//	//using for loop to iterate inside the arraylist.
+//	for (int i = 0; i<a1.size(); i++) {
+//	String arrayelement = a1.get(i);
+//	System.out.println("elements of the arraylist is" + arrayelement);
+//	}
+//	  }
+//         }
+
+
+	//******* Object creation usage*******************
+//	public static void main (String[]args) {
+//	Student s1 = new Student(24, "Kumar Jitendra", 27);
+//	Student s2 = new Student(21, "Priya Singh", 20);
+//	Student s3 = new Student(20, "Khushi Singh", 19);
+//	//Creating arraylist of the class Student
+//	ArrayList <Student> a1 = new ArrayList<Student>();
+//	a1.add(s1);
+//	a1.add(s2);
+//	a1.add(s3);
+	//using for each loop to display each element of the object
+//	for (Student display : a1) {
+//	System.out.println("the elements stored in the Student class : " + display.rollno + " " + 
+//	display.name + " " + display.age );
+//	}
+	//using for loop to display each element of the object 
+//	for (int i = 0; i<a1.size(); i++) {
+//		Student element = a1.get(i);
+//		System.out.println("the elements present in the arraylist :" +element.rollno +" " +
+//		element.name + " " + " " + element.age);
+//	}
+//	  }
+//      }
+//	
+	
+	//****************retainall method usage***************///
+	
+	public static void main  (String[]args) {
+	ArrayList <String>a1 = new ArrayList();
+	a1.add("Jitu");
+	a1.add("Priya");
+	a1.add("Khushi");
+	
+	LinkedList <String>a2 = new LinkedList();
+	a2.add("Kumar");
+	a2.add("Jitu");
+	a2.add("Priya");
+	a2.add("Singh");
+	//to use retain all method .
+	a1.retainAll(a2);
+	ListIterator<String> itr = a1.listIterator();
+	while (itr.hasNext()) {
+	System.out.println("elements combining two arraylist:" + itr.next());	
+	}	
+	}
+}

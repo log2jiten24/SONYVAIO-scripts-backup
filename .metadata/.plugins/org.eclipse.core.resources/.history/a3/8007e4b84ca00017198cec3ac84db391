@@ -1,0 +1,48 @@
+package javaprogramming;
+
+import java.util.ArrayList;
+import java.util.ListIterator;
+
+public class Arraylist {
+
+//*********** Arraylist demonstration using while loop or using iterator.***************
+//	public static void main(String[] args) {
+//   ArrayList<String>a1 = new ArrayList<String>();    
+//	a1.add("Jitu")	;
+//	a1.add("Kumar");
+//	a1.add("Singh");	
+//	ListIterator<String> itr = a1.listIterator();	
+//	while (itr.hasNext()) {		
+//	System.out.println("elements of the arraylist is " + itr.next());
+//	}		
+//	}
+//}
+
+//************demonstration using for each loop for arraylist****************/////
+//public static void main (String[]args) {
+//ArrayList<String>a1 = new ArrayList<String>();
+//  a1.add("Jitu")	;
+//	a1.add("Kumar");
+//	a1.add("Singh");
+//	//using for each loop to display the elements in the arraylist
+//	for (String element:a1) {
+//		System.out.println("elements of the arraylist is" + element);
+//	}
+//}
+//}
+
+//************* demonstration using forloop for arraylist***********/////
+	public static void main (String[]args) {
+    ArrayList<String>a1 = new ArrayList<String>();
+    a1.add("Jitu")	;
+	a1.add("Kumar");
+	a1.add("Singh");
+	//using for loop to iterate inside the arraylist.
+	for (int i = 0; i<a1.size(); i++) {
+	String arrayelement = a1.get(1);
+	System.out.println("elements of the arraylist is" + arrayelement);
+	}
+	  }
+         }
+	
+	

@@ -1,0 +1,25 @@
+package javaprogramming;
+
+import java.util.ArrayList;
+import java.util.ListIterator;
+
+public class Arraylist {
+
+	public static void main(String[] args) {
+		
+    ArrayList<String>a1 = new ArrayList<String>();
+    
+	a1.add("Jitu")	;
+	a1.add("Kumar");
+	a1.add("Singh");
+	
+	ListIterator<String> itr = a1.listIterator();
+	
+	while (itr.hasNext()) {
+		
+		System.out.println("elements of the arraylist is " + itr.next());
+	}
+		
+	}
+
+}
